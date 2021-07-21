@@ -1,8 +1,4 @@
 
-# Election - DAPP Tutorial
-
-## 2019 Updated Code
-https://github.com/dappuniversity/election/tree/2019_update
 
 Follow the steps below to download, install, and run this project.
 
